@@ -1,0 +1,8 @@
+C:\Users\g mrudula\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.exe.config
+C:\Users\g mrudula\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.exe
+C:\Users\g mrudula\source\repos\VendingMachineProject\VendingMachineProject\bin\Debug\VendingMachineProject.pdb
+C:\Users\g mrudula\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.AssemblyReference.cache
+C:\Users\g mrudula\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\g mrudula\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.csproj.CoreCompileInputs.cache
+C:\Users\g mrudula\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.exe
+C:\Users\g mrudula\source\repos\VendingMachineProject\VendingMachineProject\obj\Debug\VendingMachineProject.pdb
